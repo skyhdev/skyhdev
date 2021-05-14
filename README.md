@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to My Profile
 #### I am Web developer and Machine Learning Engineer
-![I am Web developer and Machine Learning Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Web developer and Machine Learning Engineer](./img/banner.png)
 
 I have rich experience with web development and Machine Learning.
 
