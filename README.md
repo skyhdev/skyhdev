@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to My Profile
 #### I am Web developer and Machine Learning Engineer
-![I am Web developer and Machine Learning Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Web developer and Machine Learning Engineer](./img/banner.png)
 
 I have rich experience with web development and Machine Learning.
 
@@ -13,6 +13,4 @@ Skills: Laravel/Django/Flask/Node.js/ImageProcessing(OpenCV,Tensorflow)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhdev)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhdev&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/skyhdev) 
+![Profile views](https://gpvc.arturio.dev/skyhdev)
