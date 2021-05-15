@@ -13,4 +13,4 @@ Skills: Laravel/Django/Flask/Node.js/ImageProcessing(OpenCV,Tensorflow)
 
 ![Profile views](https://gpvc.arturio.dev/skyhdev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=skyhdev&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhdev)](https://github.com/anuraghazra/github-readme-stats)
