@@ -2,9 +2,9 @@
 #### I am Web developer and Machine Learning Engineer
 ![I am Web developer and Machine Learning Engineer](./img/banner.png)
 
-I have rich experience with web development.
+I have rich experience with web development and Machine Learning.
 
-Skills: Laravel/Django/Flask/Node.js/React/Vue/Angular
+Skills: Laravel/Django/Flask/Node.js/ImageProcessing(OpenCV,Tensorflow)
 
 - 🔭 I’m currently working on this page. 
 
@@ -13,5 +13,7 @@ Skills: Laravel/Django/Flask/Node.js/React/Vue/Angular
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-![Profile views](https://gpvc.arturio.dev/skyhdev)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyhdev)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/skyhdev) 
 
