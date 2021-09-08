@@ -2,7 +2,7 @@
 #### I am Web developer and Machine Learning Engineer
 ![I am Web developer and Machine Learning Engineer](./img/banner.png)
 
-I have rich experience with web development and Machine Learning.
+I have rich experience with web development.
 
 Skills: Laravel/Django/Flask/Node.js/ImageProcessing(OpenCV,Tensorflow)
 
