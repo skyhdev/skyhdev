@@ -1,10 +1,6 @@
 ### Hi there 👋, Welcome to My Profile
 #### Blockchain and web developer
-![I am Web developer and Machine Learning Engineer](./img/banner.png)
-
-I have rich experience with web development.
-
-Skills: Laravel/Django/Flask/Node.js/ImageProcessing(OpenCV,Tensorflow)
+![](./img/banner.png)
 
 - 🔭 I’m currently working on this page. 
 
