@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to My Profile
-#### I am Web developer and Machine Learning Engineer
+#### Blockchain and web developer
 ![I am Web developer and Machine Learning Engineer](./img/banner.png)
 
 I have rich experience with web development.
